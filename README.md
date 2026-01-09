@@ -27,9 +27,9 @@ The full study, results, and analysis are available in **[`report.pdf`](./report
 
 ## Project Structure
 
-├── waveform_classification.ipynb # Experiments, plots, comparisons
-├── requirements.txt # Python dependencies
-└── report.pdf # Full project report
+- waveform_classification.ipynb # Experiments, plots, comparisons
+- requirements.txt # Python dependencies
+- report.pdf # Full project report
 
 
 ---

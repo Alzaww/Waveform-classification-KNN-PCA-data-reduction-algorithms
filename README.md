@@ -75,22 +75,22 @@ Place waveform.data in the project root (same directory as the notebook).
 3) Reproduce the experiments
 ```bash
 jupyter notebook waveform_classification.ipynb
-````
+```
 
 Inside the notebook you will find:
 
--Z-score normalization
--Cross-validation for k
--Data cleaning (RENN) and reduction (CNN)
--PCA visualization (2D) and higher-dimensional projections
--kNN and Logistic Regression comparisons
+- Z-score normalization
+- Cross-validation for k
+- Data cleaning (RENN) and reduction (CNN)
+- PCA visualization (2D) and higher-dimensional projections
+- kNN and Logistic Regression comparisons
 
 ---
 Notes
 
--Classes are balanced (~33% each), making accuracy a meaningful primary metric.
--PCA is applied after normalization.
--Reported runtimes are inference-oriented and depend on hardware.
+- Classes are balanced (~33% each), making accuracy a meaningful primary metric.
+- PCA is applied after normalization.
+- Reported runtimes are inference-oriented and depend on hardware.
 
 
 ---

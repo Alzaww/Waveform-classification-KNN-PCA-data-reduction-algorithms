@@ -40,7 +40,7 @@ The full study, results, and analysis are available in **[`report.pdf`](./report
 ![finetuningk](images/fine-tuningK.png)
 
 ### Data cleaning and reduction
-add image
+![pca 3](images/PCA 3.png)
 
 ### 1-NN vs 1-NN + CNN (with / without PCA)
 

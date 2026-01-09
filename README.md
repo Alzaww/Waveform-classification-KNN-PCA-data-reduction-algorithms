@@ -37,7 +37,7 @@ The full study, results, and analysis are available in **[`report.pdf`](./report
 ## Key Results (from the report)
 
 ### Fine-tuning k
-add image
+![finetuningk](images/fine-tuningK.png)
 
 ### Data cleaning and reduction
 add image
